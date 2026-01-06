@@ -1,4 +1,4 @@
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+I'm+Samadhi+uluwaduge&center=true&width=500&height=80"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+I'm+Samadhi+Uluwaduge&center=true&width=500&height=80"></a>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="left">👩‍💻 About Me </h2> <p align="left"> I'm a Software Engineering undergraduate at the University of Plymouth from Sri Lanka, with a strong interest in UI/UX design and frontend development.  
@@ -6,7 +6,7 @@ My focus is on creating visually appealing, responsive, and user-centered web ap
 Recently, I’ve been working with modern frontend technologies and expanding my skills in backend development using Node.js.
 </p> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samadhi2003" alt="samadhi2003" /></a> </p>
+
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on **Lifesync**
@@ -63,9 +63,6 @@ Recently, I’ve been working with modern frontend technologies and expanding my
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/>
-</a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
 </a>
@@ -96,11 +93,8 @@ Recently, I’ve been working with modern frontend technologies and expanding my
 </p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samadhi2003&show_icons=true&locale=en&layout=compact" alt="samadhi2003" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samadhi2003&show_icons=true&locale=en" alt="samadhi2003" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samadhi2003&theme=tokyonight&" alt="samadhi2003" />
 
 
 
