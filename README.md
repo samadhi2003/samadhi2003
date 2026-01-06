@@ -7,7 +7,7 @@ Recently, I’ve been working with modern frontend technologies and expanding my
 </p> 
 
 
-<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on **Lifesync**
 
