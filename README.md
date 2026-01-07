@@ -20,8 +20,6 @@ Recently, I’ve been working with modern frontend technologies and expanding my
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/samadhi uluwaduge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samadhi uluwaduge" height="30" width="40" /></a>
-<a href="https://fb.com/samadhi uluwaduge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samadhi uluwaduge" height="30" width="40" /></a>
-<a href="https://instagram.com/dhi_uh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhi_uh" height="30" width="40" /></a>
 <a href="https://dribbble.com/samadhi uluwaduge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="samadhi uluwaduge" height="30" width="40" /></a>
 <a href="https://www.behance.net/samadhi uluwaduge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="samadhi uluwaduge" height="30" width="40" /></a>
 </p>
@@ -51,9 +49,7 @@ Recently, I’ve been working with modern frontend technologies and expanding my
 <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="30" height="30"/>
 </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
-</a>
+
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
 </a>
@@ -69,9 +65,7 @@ Recently, I’ve been working with modern frontend technologies and expanding my
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
 </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/>
-</a>
+
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>
 </a>
