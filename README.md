@@ -9,9 +9,6 @@ Recently, I’ve been working with modern frontend technologies and expanding my
 
 <img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on **Lifesync**
-
-- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Full-stack web applications- AI/ML-powered products-UI/UX-focused frontend projects**
 
